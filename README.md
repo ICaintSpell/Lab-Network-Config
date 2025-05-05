@@ -39,3 +39,6 @@ VLAN 40: Servers
 VLAN 50: Guest
 
 VLAN 99: Management
+
+
+This document is a living blueprint of the evolving Paige Home Lab. Configs and implementations are updated as new services come online.

@@ -42,3 +42,4 @@ VLAN 99: Management
 
 
 This document is a living blueprint of the evolving Paige Home Lab. Configs and implementations are updated as new services come online.
+© 2025 John Wesley Paige Jr.

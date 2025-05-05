@@ -12,6 +12,7 @@ DNS: Installed and hosting internal zone
 
 Firewall: Jetway + pfSense
 
+
 🌐 Network Design
 
 Subnets by Jetway Port:
@@ -23,6 +24,7 @@ Port 2: 192.168.2.0/24 – Core LAN (XPS420 Server/DC)
 Port 3: 192.168.3.0/24 – Switch → Cameras, AP, Xbox, IoT devices
 
 Port 4: 192.168.4.0/24 – Daily Driver (HP Laptop via HP Hub)
+
 
 VLANs:
 
